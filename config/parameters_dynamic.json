@@ -1,0 +1,35 @@
+{
+  "iscat": {
+    "M": 75,
+    "pixel_physicalsize": 18,
+    "nThetas": 110,
+    "nx": 27,
+    "nz": 200,
+    "zf_initial": 10,
+    "zf_range": 1,
+    "wavelength": 830,
+    "adjust4Er": 1,
+    "na": 0.4,
+    "coverslip_ri": 1.523,
+    "coverslip_ri_spec": 1.523,
+    "immersion_medium_ri": 1.5,
+    "immersion_medium_ri_spec": 1.5,
+    "working_distance": 330,
+    "coverslip_thickness": 170,
+    "coverslip_thickness_spec": 170,
+    "frame_interval": 0.1,
+    "noise_sd":10
+
+  },
+  "sample": {
+    "radius": 100,
+    "zp_initial": 9.9,
+    "zp_range": 1,
+    "p_permittivity_real": -3.7328,
+    "p_permittivity_img": 2.7725,
+    "adjust4Es": 1,
+    "sample_medium_ri": 1.4
+    
+  }
+}
+

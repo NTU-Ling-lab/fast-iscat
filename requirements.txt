@@ -1,0 +1,14 @@
+cffi
+numpy
+scipy
+imageio
+scikit-image
+matplotlib
+seaborn
+arviz
+tqdm
+jupyter
+notebook
+pytest
+black
+flake8

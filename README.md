@@ -89,7 +89,12 @@ Key parameters include:
 
 ## Instructions for Use
 
-Run demo.py in Python IDE (Spyder, PyCharm, etc.) or demo.ipynb in Jupyter Notebook
+To run the demo, you can simply type 
+```bash
+python demo.py
+```
+
+You can also choose to run demo.py in Python IDE (Spyder, PyCharm, etc.) or demo.ipynb in Jupyter Notebook.
 
 ## Code Formatting
 

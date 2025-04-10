@@ -10,23 +10,23 @@ git clone https://github.com/NTU-Ling-lab/fast-iscat.git
 cd fast-iscat
 ```
 
-2. Set up the environment\
-\
-Install C++ compiler:\
-In Windows 10/11, install Visual Studio Code at https://code.visualstudio.com/download \
+2. Set up the environment  
+
+Install C++ compiler:  
+In Windows 10/11, install Visual Studio Code at https://code.visualstudio.com/download
 
 In MacOS, install Mac C++ Compiler via terminal
 ```bash
 xcode-select --install
 ```
 
-\In Ubuntu/Debian Linux:
+In Ubuntu/Debian Linux:
 ```bash
 sudo apt update
 sudo apt install build-essential
 ```
 
-\In RHEL/CentOS Linux:
+In RHEL/CentOS Linux:
 ```bash
 sudo yum group install "Development Tools"
 ```

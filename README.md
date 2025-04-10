@@ -6,12 +6,13 @@ A Python package for fast axial localization of nano-objects in wide-field inter
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fast-iscat.git
+git clone https://github.com/NTU-Ling-lab/fast-iscat.git
 cd fast-iscat
 ```
 
-2. Set up the environment
-Install C++ compiler:
+2. Set up the environment\
+\
+Install C++ compiler:\
 In Windows 10/11, install Visual Studio Code at https://code.visualstudio.com/download
 
 In MacOS, install Mac C++ Compiler via terminal
@@ -104,7 +105,7 @@ These formatting changes maintain the original functionality while making the co
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 

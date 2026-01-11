@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software for future publications, please cite our original paper published in npj Nanophotonics. DOI: 10.1038/s44310-025-00068-3
+title: "fast-iscat: iSCAT Fast Axial Localization"
+type: software
+authors:
+  - family-names: Wei
+    given-names: Liaoliao
+  - family-names: Ling
+    given-names: Tong
+    orcid: "https://orcid.org/0000-0001-9009-7966"
+license: MIT
+url: "https://github.com/NTU-Ling-lab/fast-iscat"
+repository-code: "https://github.com/NTU-Ling-lab/fast-iscat"
+date-released: 2025-04-10
+keywords:
+  - iSCAT
+  - interferometric scattering microscopy
+  - axial localization
+  - nanoparticle tracking
+  - vectorial diffraction
+  - Richards-Wolf
+preferred-citation:
+  type: article
+  title: "Fast 3D localization of nano-objects in wide-field interferometric scattering microscopy via vectorial diffraction model-derived analytical fitting"
+  authors:
+    - family-names: Wei
+      given-names: Liaoliao
+    - family-names: Anyi
+      given-names: Caroline Livan
+    - family-names: Li
+      given-names: Huakun
+      orcid: "https://orcid.org/0009-0003-9977-4590"
+    - family-names: Nie
+      given-names: Haitao
+    - family-names: Wen
+      given-names: Bihan
+    - family-names: Ling
+      given-names: Tong
+      orcid: "https://orcid.org/0000-0001-9009-7966"
+  journal: "npj Nanophotonics"
+  volume: 2
+  start: 21
+  year: 2025
+  month: 5
+  doi: "10.1038/s44310-025-00068-3"
+  url: "https://doi.org/10.1038/s44310-025-00068-3"

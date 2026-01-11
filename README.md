@@ -112,6 +112,10 @@ These formatting changes maintain the original functionality while making the co
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Citation
+
+Wei, L., Anyi, C. L., Li, H., Nie, H., Wen, B. & Ling, T. Fast 3D localization of nano-objects in wide-field interferometric scattering microscopy via vectorial diffraction model-derived analytical fitting. npj Nanophoton. 2, 21 (2025). [https://doi.org/10.1038/s44310-025-00068-3](https://doi.org/10.1038/s44310-025-00068-3)
+
 ## Contact
 
 **Liaoliao Wei**
